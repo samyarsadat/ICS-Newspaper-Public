@@ -10,7 +10,7 @@ My Adobe InDesign template for the newspaper (and associated config) can be foun
 
 ## License
 
-These publications are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.\
+These publications are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 Copyright for all article texts belongs to their respective authors.
 
 <br>
